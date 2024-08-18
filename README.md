@@ -1,3 +1,3 @@
 # code-demo
 This is my first git repository
-Author -- Tejaswini Holani
+Author -- (RCPIT STUDENT)
